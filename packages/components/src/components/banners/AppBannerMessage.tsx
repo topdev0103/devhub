@@ -84,10 +84,8 @@ export function AppBannerMessage() {
           size={18 * scaleFactor}
           tooltip="Dismiss"
         />
-
         <Spacer width={contentPadding / 2} />
       </View>
-
       <Separator horizontal />
     </View>
   )
