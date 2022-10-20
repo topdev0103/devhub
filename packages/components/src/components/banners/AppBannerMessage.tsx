@@ -1,6 +1,5 @@
 import React from 'react'
 import { View } from 'react-native'
-
 import { useReduxAction } from '../../hooks/use-redux-action'
 import { useReduxState } from '../../hooks/use-redux-state'
 import { useSafeArea } from '../../libs/safe-area-view'
