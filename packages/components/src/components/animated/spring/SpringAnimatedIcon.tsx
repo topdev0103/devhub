@@ -4,4 +4,4 @@ import { createSpringAnimatedComponent } from './helpers'
 export type SpringAnimatedIconProps = Omit<OcticonIconProps, 'color'>
 
 export const SpringAnimatedIcon = createSpringAnimatedComponent(Icon)
-SpringAnimatedIcon.displayName = 'SpringAnimatedIcon'
+SpringAnimatedIcon.displayName = 'SpringAnimatedIcon' //spring animation
